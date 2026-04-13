@@ -1,0 +1,8 @@
+servidor:
+  host: localhost
+  puerto: 8080
+
+base_datos:
+  nombre: mi_db
+  usuario: admin
+  password: 1234
